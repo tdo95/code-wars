@@ -34,6 +34,8 @@ Total: **38**
 <h2 id="notes">📓 Repo Organization & Notes</h2>
 I've grouped my solutions based on platform and difficulty level. Each solution is in a file labeled by the problem name, so if you want to do the same one, you'll be able to find it by seacrching the file name on the platform.  
 <br><br>
-JavaScript is usually my language of choice, so you'll find most of my solutions are written in that language.
+JavaScript is usually my language of choice, so you'll find most of my solutions are written in that language.<br><br>
+
+Not every solution I've completed is in this repository,  just ones I feel are worth saving. Checkout my profile on each platform for all the other ones Ive done!
 
 #### Thanks for stopping by! 😊
