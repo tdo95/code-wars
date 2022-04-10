@@ -20,17 +20,17 @@ I love improving as an engineer. I work really hard at not only understanding th
 
 #### What is Codewars?
 Codewars is a ninja themed coding challenge platform where you have the oppurtunity to  level up as you solve problems. Both the challenges and users are ranked on a scale of 8kyu to 1kyu, with 8kyu being the easiest/beginner and 1kyu being the hardest/grandmaster.
-
+<br>
 ### MY RANKING 🥇
 
-<img src="https://www.codewars.com/users/tdo95/badges/micro" height="30" alt= "Codewars badge with ranking">
+<img src="https://www.codewars.com/users/tdo95/badges/micro" height="30" alt= "Codewars badge with ranking"><br><br>
 
 ### PROBLEMS COMPLETED 🔘  
 8kyu: **26**/389 ✅ ⬛️ ⬛️ ⬛️ ⬛️  
 7kyu: **12**/1900 ⬛️ ⬛️ ⬛️ ⬛️ ⬛️ 
 
 Total: **38**
-
+<br><br> 
 <h2 id="notes">📓 Repo Organization & Notes</h2>
 I've grouped my solutions based on platform and difficulty level. Each solution is in a file labeled by the problem name, so if you want to do the same one, you'll be able to find it by seacrching the file name on the platform.  
 <br><br>
