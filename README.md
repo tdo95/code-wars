@@ -6,9 +6,8 @@ This repository is where I store all the solutions I've created to solve coding 
 #### What is a Coding Challenge? 🧩
 A coding challenge is a computer based test that assess your ability to use math and logic to solve a problem. There are many webstites the host these challenges online for you to complete at leisure. I'm currently using [Codewars](https://www.codewars.com).
 
-
 #### Why do them? 🤔 
-I love improving as an engineer. I work really hard at not only understanding these problems, but also solving them in the most effienct way possible. This sort of deliberate practice is what sharpens your computational logic skills. And at the end of the day, my skills as an engineer aren't going to improve themselves, so I work at it by doing these challenges. Plus... who doesn't love a good puzzle? 😌 😄
+I love improving as an engineer. I work really hard to not only understand these problems, but also solve them in the most effienct way possible. This sort of deliberate practice is what sharpens your computational logic skills. At the end of the day, my competency as an engineer isn't going to improve on it's own, so I work at it by doing these challenges. Plus... who doesn't love a good puzzle? 😌 😄
 
 
 ### More information and Quick Stats 🌐
