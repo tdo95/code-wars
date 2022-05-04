@@ -11,4 +11,4 @@ function rowSumOddNumbers(n) {
       sum += x;
     }
     return sum
-  }
+}
