@@ -1,4 +1,4 @@
-# 🏆 Coding Challenges
+# 🏆 Code Wars Coding Challenges
 
 ### Welcome to the Chamber of Blood Sweat and Tears 
 This repository is where I store all the solutions I've created to solve coding challenges across the internet. 
