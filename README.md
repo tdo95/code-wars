@@ -11,19 +11,19 @@ I love improving as an engineer. I work really hard to not only understand these
 
 
 ### More information and Quick Stats 🌐
-- [Codewars profile](https://www.codewars.com/users/tdo95)
-- Codewars Stats [ ↓ ](#codewars)
+- [Code Wars profile](https://www.codewars.com/users/tdo95)
+- Code Wars Stats [ ↓ ](#codewars)
 - Repo Organization & Notes [ ↓ ](#notes)
 
-<h2 id="codewars">🚩 Codewars Stats</h2>
+<h2 id="codewars">🚩 Code Wars Stats</h2>
 
-#### What is Codewars?
-Codewars is a ninja themed coding challenge platform where you have the oppurtunity to  level up as you solve problems. Both the challenges and users are ranked on a scale of 8kyu to 1kyu, with 8kyu being the easiest/beginner and 1kyu being the hardest/grandmaster.
+#### What is Code Wars?
+Code Wars is a ninja themed coding challenge platform where you have the oppurtunity to  level up as you solve problems. Both the challenges and users are ranked on a scale of 8kyu to 1kyu, with 8kyu being the easiest/beginner and 1kyu being the hardest/grandmaster.
 <br>
 
 ### MY RANKING 🥇
 
-<img src="https://www.codewars.com/users/tdo95/badges/micro" height="30" alt= "Codewars badge with ranking"><br><br>
+<img src="https://www.codewars.com/users/tdo95/badges/micro" height="30" alt= "Code Wars badge with ranking"><br><br>
 
 ### PROBLEMS COMPLETED 🔘  
 8kyu: **26**/389 ✅ ⬛️ ⬛️ ⬛️ ⬛️  
